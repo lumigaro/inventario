@@ -2,6 +2,8 @@
 
 namespace App;
 
+/* Inicio de Proyecto Chivirri */
+
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Auth\Passwords\CanResetPassword;
 use Illuminate\Contracts\Auth\Access\Authorizable as AuthorizableContract;
